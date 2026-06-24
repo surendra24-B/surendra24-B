@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Surendra Boddapu!
 
-<!--
-**surendra24-B/surendra24-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me:
+- 📊 **Data Analyst & Python Developer** passionate about turning data into actionable insights.
+- 🎓 Gained strong analytical and data analysis experience through recent summer internship projects.
+- 🌱 I’m currently learning advanced data visualization techniques and machine learning models.
+- 💬 Ask me about **Python, Data Analysis, and Tableau**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** Python, HTML, SQL
+- **Data Analysis & Visualization:** Tableau, Pandas, NumPy, Matplotlib
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+### 📈 GitHub Stats:
+🚀 *Check out some of my featured projects below!*
