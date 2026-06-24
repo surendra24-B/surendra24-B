@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages:** Python, HTML, SQL
+- **Languages:** Python, SQL
 - **Data Analysis & Visualization:** Tableau, Pandas, NumPy, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook
 
