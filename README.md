@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Surendra Boddapu!
 
 ### 💫 About Me:
-- 📊 **Data Analyst & Python Developer** passionate about turning data into actionable insights.
+- 📊 **Data Analyst & Data Scientist** passionate about turning data into actionable insights.
 - 🎓 Gained strong analytical and data analysis experience through recent summer internship projects.
 - 🌱 I’m currently learning advanced data visualization techniques and machine learning models.
 - 💬 Ask me about **Python, Data Analysis, and Tableau**.
